@@ -23,7 +23,6 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by:Nandan.S
 RegisterNumber: 212220040096
 */
-```
 import numpy as np 
 import matplotlib.pyplot as plt
 x=np.array(eval(input()))
@@ -42,7 +41,7 @@ print(wa)
 plt.scatter(x,y)
 plt.plot(x,wa,color="Red")
 plt.show()
-
+```
 ## Output:
 ![best fit line](ML.png)
 
