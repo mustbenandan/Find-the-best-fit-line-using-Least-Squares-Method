@@ -49,10 +49,5 @@ y_mean=m*3+b
 ## Output:
 ![image](https://github.com/NamithaS2710/Find-the-best-fit-line-using-Least-Squares-Method/assets/133190822/48855f33-3bb9-4111-8977-570badd7d65a)
 
-
-
-
-
-
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
